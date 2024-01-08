@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "myvar"
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
